@@ -29,9 +29,6 @@ HTML, SCSS, TypeScript, React, Webpack
 
 ## Установка и запуск
 
-### `Требования`
-
-Для установки и запуска проекта, необходим NodeJS v8+.
 
 ### `Установка зависимостей`
 
@@ -70,3 +67,6 @@ npm run lint
 ```
 npm run format
 ```
+
+## ссылка на проект
+https://andreynasaite.github.io/bloglist/
