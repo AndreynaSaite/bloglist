@@ -23,7 +23,7 @@
 
 ## Стек
 
-HTML, SCSS, TypeScript, React, Webpack
+HTML, SCSS, TypeScript, React, Webpackk
 
 ---
 
